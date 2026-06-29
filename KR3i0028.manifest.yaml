@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3i0028/v1
+canonical_location: https://kanripo.org/bkk/KR3i0028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 糖霜譜
+  date: '2015-08-24 23:18:10.101813'
+  source:
+    repository: kanripo
+    path: KR3i0028
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0028_000.yaml, hash: 'sha256:4ad8cd70cc7a31ee48592ee62c4031305186d1ad0e8ece63e8b90f99b42a4a04'}
+  - {seq: 1, filename: KR3i0028_001.yaml, hash: 'sha256:62c76d8936183f694f3210da25e27ae3f36ea0c781af8a6c6f7715f7e4b995e7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0028_000.markers.yaml, hash: 'sha256:b823db8957a8104ba03c29d1580240a31eb4f84b9f739a1a731d31313cf4c0d0'}
+  - {seq: 1, role: markers, filename: assets/KR3i0028_001.markers.yaml, hash: 'sha256:49cbff112dcf82985116989694c6ea12298ddd30ab09b854ebe27cddfec7e061'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0028_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 399
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3i0028_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2425
+  label: 糖霜譜
+  type: section
+  level: 1
+hash: sha256:bb6ecadd717359d5dbaac258dde7b62ea85394e3fccb2486143f32cf924aa10b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
