@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3i0028_000.yaml, hash: 'sha256:bc58b779628f064fe7568b4d6ad04140050d4807eb81b9ff1e54187efa802319'}
   - {seq: 1, filename: KR3i0028_001.yaml, hash: 'sha256:2800fe4cd2e1bf130cc339e0646ef6321bc3e061d059ff79eb62330a7dac7665'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0028_000.markers.yaml, hash: 'sha256:b7619e771e76847b8137f4e869387806e87a6d037fec2557b33694299d6cf87e'}
-  - {seq: 1, role: markers, filename: assets/KR3i0028_001.markers.yaml, hash: 'sha256:4858b0240a2889a1cca12f8c46f5909f3909baca0a9f3faaf013bbb322287b8c'}
+  - {seq: 0, role: markers, filename: assets/KR3i0028_000.markers.yaml, hash: 'sha256:226acb7a9bfd5d679f0031b300a9068481b5f4f247344d3be863da3110044744'}
+  - {seq: 1, role: markers, filename: assets/KR3i0028_001.markers.yaml, hash: 'sha256:657dbd32fe92f78c60c64caaf9303025f10a94f315a74bdce4aef9706edf48c0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 糖霜譜
   type: section
   level: 1
-hash: sha256:d21131c94f61d1ccbef047817c521d51769e51fcaf3dc832829c5432c4d86359
+hash: sha256:5dee411fb5f2fe5e4feb3ee3e5de984d503c62c88fb7ae5784bd97c3cafa828e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
